@@ -1,4 +1,4 @@
-![logo](https://github.com/vv7094679-dotcom/Vikash-Verma/blob/main/Marcelin.png.mp4)
+![logo](https://github.com/vv7094679-dotcom/Vikash-Verma/blob/main/Image.png.png)
 <h1 align="center">Hi 👋, I'm Vikash Verma</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img aling="right" alt="coding" with="40" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
